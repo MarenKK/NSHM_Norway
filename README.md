@@ -1,1 +1,1 @@
-# NSHM_Norway
+# National Seismic Hazard Model for Norway and Svalbard
